@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">CodelabLoaders</string>
+
+    <string name="copperloader">LoaderBronce</string>
+
+    <string name="silverloader">LoaderPlata</string>
+
+    <string name="goldenloader">LoaderOro</string>
+
+</resources>
